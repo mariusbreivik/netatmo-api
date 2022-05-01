@@ -11,8 +11,8 @@
     <description>a lightweight netatmo api</description>
 
     <properties>
-        <maven.compiler.source>16</maven.compiler.source>
-        <maven.compiler.target>16</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
         <scribejava-core.version>8.3.1</scribejava-core.version>
         <junit-jupiter-engine.version>5.8.2</junit-jupiter-engine.version>
         <scribejava-httpclient-okhttp.version>8.3.1</scribejava-httpclient-okhttp.version>
