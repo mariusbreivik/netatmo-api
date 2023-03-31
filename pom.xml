@@ -18,7 +18,7 @@
         <scribejava-httpclient-okhttp.version>8.3.1</scribejava-httpclient-okhttp.version>
         <slf4j-api.version>1.7.36</slf4j-api.version>
         <httpclient.version>4.5.13</httpclient.version>
-        <jackson-databind.version>2.13.2.2</jackson-databind.version>
+        <jackson-databind.version>2.13.4.2</jackson-databind.version>
         <logback-core.version>1.2.11</logback-core.version>
         <logback-classic.version>1.2.11</logback-classic.version>
     </properties>
